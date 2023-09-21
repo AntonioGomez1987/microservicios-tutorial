@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/tutorialMicroservicios   
+spring.datasource.username=root
+spring.datasource.password=Manager@2023
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true

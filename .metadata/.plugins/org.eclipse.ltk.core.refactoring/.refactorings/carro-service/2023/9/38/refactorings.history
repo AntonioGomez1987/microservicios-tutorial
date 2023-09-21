@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.carroservice&apos; to &apos;com.carro.service&apos;&#x0A;- Original project: &apos;carro-service&apos;&#x0A;- Original element: &apos;carro-service/src/main/java/com.carroservice&apos;&#x0A;- Renamed element: &apos;carro-service/src/main/java/com.carro.service&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.carroservice&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.carroservice" name="com.carro.service" qualified="false" references="true" stamp="1695160091814" textual="false" version="1.0"/>
+</session>
