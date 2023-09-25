@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/lucasian/Cursos/Tutorial-Microservicios/config-service"/>
 			<item value="/home/lucasian/Cursos/Tutorial-Microservicios/moto-service"/>
 			<item value="/home/lucasian/Cursos/Tutorial-Microservicios/carro-service"/>
 			<item value="/home/lucasian/LucasianProjects/Ibliss"/>
